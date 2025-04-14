@@ -2,6 +2,8 @@
 
 O codigo é de um projeto real, onde consiste migrar as conexões do BI de relatorios normalizados .CSV para o banco de dados MySQL.
 
+Através de uma breve analise sobre a estrutura dos relatorios feito no Power B.I, notei a necessidade de criação de um banco de dados no qual facilitaria nas atualizações e visualizações dos dados para gerar os indicadores.
+
 Linguagem e ferramentas utilizada para criação do banco:
 - MySQL
 - MySQL Workbench ( Criação dos diagramas e planejamento do banco )
